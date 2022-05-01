@@ -1,4 +1,14 @@
 # 100DaysOfNoCode
+## Day 3
+
+Creating a website with a drag and drop editor.
+
+<img src="https://github.com/EmElkan/100DaysOfNoCode/blob/main/images/nc_day3frogs.gif" alt="Gif of drag and drop website with frogs">
+
+### Resources
+
+- [mmm.page](https://mmm.page/)    
+- [Made with mmm.page](https://showcase.mmm.page/)     
 
 ## Day 2
 
