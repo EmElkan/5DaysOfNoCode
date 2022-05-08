@@ -1,4 +1,17 @@
 # 100DaysOfNoCode
+
+## Day 4
+
+Making a simple 2d game with Bitsy.
+
+<img src="https://github.com/EmElkan/100DaysOfNoCode/blob/main/images/nc_day4.gif" alt="Gif of game preview. Character starts in a bedroom, goes to sleep, and wakes up in a new world">
+<img src="https://github.com/EmElkan/100DaysOfNoCode/blob/main/images/nc_day4.png" alt="Image of Bitsy UI">
+
+### Resources
+
+- [Bitsy Home](https://bitsy.org/)
+- [Made with Bitsy](https://itch.io/games/made-with-bitsy)
+
 ## Day 3
 
 Creating a website with a drag and drop editor.
@@ -25,7 +38,7 @@ Turning a rough Figma prototype into a native app with [Bravo Studio](https://ww
 
 ## Day 1
 
-Trying out [Glide](https://www.glideapps.com/).
+Trying out [Glide](https://www.glideapps.com/) to make my own mobile application using data from a google sheet.
 
 <img src="https://github.com/EmElkan/100DaysOfNoCode/blob/main/images/nc_day1.gif" alt="Gif test tools app created in Glideapps">
 
