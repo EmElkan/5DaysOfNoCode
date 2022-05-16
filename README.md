@@ -1,8 +1,14 @@
 # 100DaysOfNoCode
 
+## Day 5
+
+Started a blog on [Hashnode](https://hashnode.com/).
+
+<img src="https://github.com/EmElkan/100DaysOfNoCode/blob/main/images/nc_day5.gif" alt="Gif of hashnode content feed, blog dashboard, and blog content">
+
 ## Day 4
 
-Making a simple 2d game with Bitsy.
+Making a simple 2d game with [Bitsy](https://make.bitsy.org/).
 
 <img src="https://github.com/EmElkan/100DaysOfNoCode/blob/main/images/nc_day4.gif" alt="Gif of game preview. Character starts in a bedroom, goes to sleep, and wakes up in a new world">
 <img src="https://github.com/EmElkan/100DaysOfNoCode/blob/main/images/nc_day4.png" alt="Image of Bitsy UI">
