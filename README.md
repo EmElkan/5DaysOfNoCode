@@ -1,4 +1,4 @@
-# 100DaysOfNoCode
+# 5DaysOfNoCode
 
 ## Day 5
 
